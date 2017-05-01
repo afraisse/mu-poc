@@ -8,4 +8,5 @@ service:
   - /*
   pipeline:
     source:
-      repo: https://github.com/afraisse/mu-poc
+      repo: afraisse/mu-poc
+      branch: master
